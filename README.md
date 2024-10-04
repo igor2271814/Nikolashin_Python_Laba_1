@@ -1,0 +1,1 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bowlby+One&size=60&pause=1000&random=false&width=1300&height=90&lines=Welcom+to+laboratory+work+on+Python!" alt="Typing SVG" /></a>
